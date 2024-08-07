@@ -32,5 +32,12 @@ Ready to embark on this exciting journey? Join the PyMaster Challenge and transf
 
 Feel free to reach out with any questions or feedback. Let's make this learning experience enjoyable and impactful!
 
-<a href="http://linkedin.com/in/sarah-djoubani-b983a630a" target="_blank" style="margin-right: 10px;"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px;"></a>  
-<a href="https://www.instagram.com/sarrah.codes?igsh=MXBwM3Q5ZWVyenNtaA%3D%3D&utm_source=qr" target="_blank" style="margin-left: 10px;"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" style="width: 30px; height: 30px;"></a>
+
+<div align="center">
+    <a href="http://linkedin.com/in/sarah-djoubani-b983a630a" target="_blank" style="margin-right: 10px;">
+        <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+    </a>
+    <a href="https://www.instagram.com/sarrah.codes?igsh=MXBwM3Q5ZWVyenNtaA%3D%3D&utm_source=qr" target="_blank" style="margin-left: 10px;">
+        <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" style="width: 30px; height: 30px;">
+    </a>
+</div>
