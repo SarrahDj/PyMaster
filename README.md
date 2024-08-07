@@ -32,6 +32,5 @@ Ready to embark on this exciting journey? Join the PyMaster Challenge and transf
 
 Feel free to reach out with any questions or feedback. Let's make this learning experience enjoyable and impactful!
 
-
-[LinkedIn](http://linkedin.com/in/sarah-djoubani-b983a630a)  
-[Instagram](https://www.instagram.com/sarrah.codes?igsh=MXBwM3Q5ZWVyenNtaA%3D%3D&utm_source=qr)
+<a href="http://linkedin.com/in/sarah-djoubani-b983a630a" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="width: 25px; height: 25px;"></a>  
+<a href="https://www.instagram.com/sarrah.codes?igsh=MXBwM3Q5ZWVyenNtaA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" style="width: 25px; height: 25px;"></a>
