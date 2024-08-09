@@ -16,7 +16,7 @@ The **PyMaster Challenge** is designed to guide you through a comprehensive lear
 
 ## Syllabus
 
-| Week  | Topic                     | Description                                                  |
+| Unit  | Topic                     | Description                                                  |
 |-------|---------------------------|--------------------------------------------------------------|
 | 1     | Python Basics             | Introduction to Python, Control Structures, Functions, Data Structures |
 | 2     | Intermediate Python       | Modules and Packages, File Handling, Error Handling, OOP     |
